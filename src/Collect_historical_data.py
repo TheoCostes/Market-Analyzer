@@ -1,3 +1,4 @@
+#!/Users/theocostes/Documents/repos/Market-Analyzer/venv/bin/python
 import os
 import requests
 import ccxt
