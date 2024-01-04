@@ -11,7 +11,7 @@ It is built with Python, and uses the Streamlit framework for the frontend.
 
 ## Roadmap to follow
 
-- connect to api to get historical data from diferent market ==> DONE
+- connect to api to get historical data from different market ==> DONE
 - create a pipeline to transform the data and create features
 - create a pipeline to train a model for the TA
 - create a pipeline to train a model for the PA
